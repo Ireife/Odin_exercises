@@ -1,0 +1,28 @@
+/*
+div {
+    background-color: red; color:white; font-size: 32px; text-align: center; font-weight: 700;
+    }
+
+h1 {
+    background-color:rgb(255, 0, 106); color:white; font-size: 32px; text-align: center; font-weight: 700;
+}
+
+h2 {
+    background-color:rgb(0, 255, 170); color:white; font-size: 32px; text-align: center; font-weight: 700;
+}
+
+ul {
+    background-color:blue; color:white; font-size: 18px; text-align: left; 
+}
+*/
+
+div .text {
+    background-color: yellow;
+    color: red;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+
+

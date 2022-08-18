@@ -1,0 +1,71 @@
+/*
+
+   .odd {
+  background-color: rgb(255, 167, 167);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.oddly-cool {
+  font-size: 24px;
+}
+
+#two {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+#four {
+  background-color: hsl(120, 100%, 75%);
+  font-size: 24px;
+  font-weight: bold;
+}
+   
+The correction
+.odd {
+    background-color: rgb(255, 128, 1179);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+    }
+
+.oddly-cool { 
+    font-size: 24px;
+    background-color: rgb(255, 128, 1179);
+}
+
+#two {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#four {
+    background-color: hsl(110, 100%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+ Odin- examples
+ .avatar.proportioned {
+  height: auto;   
+  width: 300px;
+ }
+
+ .avatar.distorted {
+    height: 400px;
+    width: 300px;
+ }
+
+  */
+
+  
+  .avatar.proportioned {
+    height: auto;
+    width:300px;
+  }
+
+  .avatar.distorted {
+    height: 400px;
+    width: 200px;
+  }
+
+  
